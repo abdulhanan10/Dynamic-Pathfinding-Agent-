@@ -1,10 +1,4 @@
-Here is the complete report content — ready to copy-paste:
-
----
-
 # Dynamic Pathfinding Agent — Implementation Report
-**AI 2002 – Artificial Intelligence | Assignment 2 – Question 6**
-**National University of Computer & Emerging Sciences, Chiniot-Faisalabad Campus | Spring 2026**
 
 ---
 
